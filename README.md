@@ -11,3 +11,13 @@ En esta clase aprendimos a correr el intérprete de Python desde la línea de co
 * **Ejercicio Bonus de Hipoteca:** El siguiente es un programa que calcula elmonto total que pagará X persona de lo largo de 30 años.
 *  **Ejercicio Volumen de la esfera:** Escribimos un programa que le pide al usuario que ingrese por teclado el _radio_ de una esfera y calcule e imprime el volumen de la misma.
 * **Ejercicio Geringoso:** Usamos una iteración sobre el string cadena para agregar la sílaba 'pa', 'pe', 'pi', 'po', o 'pu' según corresponda luego de cada vocal.
+
+
+# Ejercicios Clase 02 - Estructuras y funciones
+
+En esta clase se trabajo sobre estructuras de datos elementales: tuplas, conjuntos y diccionarios. También comenzamos a estructurar el código usando funciones y a leer archivos.
+
+* **Ejercicio __buscar_precios.py:** Escribimos una función para buscar el precio de determinada fruta desde un archivo y lo imprimimos en pantalla.
+* **Ejercicio __costo_camion.py__:** Usamos el modulo csv para leer estos tipos de archivos.
+* **Ejercicio __camion_commandline.py__:** Incorporamos la lectura de parámetros por linea de comando.
+* **Ejercicio __diccionario_geringoso.py__:** En base al ejercicio de la primera clase __Ejercicio geringoso__ construimos una funcion para que a partir de una lista de palabras, devuelva un diccionario geringoso.
